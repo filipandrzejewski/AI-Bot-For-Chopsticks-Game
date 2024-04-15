@@ -1684,9 +1684,9 @@ MonoBehaviour:
   - {fileID: 438227601}
   - {fileID: 754153059}
   opponentHands:
-  - {fileID: 725177791}
   - {fileID: 744901131}
-  gameState: 
+  - {fileID: 725177791}
+  playerTurn: 1
 --- !u!4 &1198696754
 Transform:
   m_ObjectHideFlags: 0
