@@ -1681,12 +1681,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerHands:
-  - {fileID: 438227601}
-  - {fileID: 754153059}
+  - {fileID: 438227602}
+  - {fileID: 754153060}
   opponentHands:
-  - {fileID: 744901131}
-  - {fileID: 725177791}
-  playerTurn: 1
+  - {fileID: 744901129}
+  - {fileID: 725177789}
 --- !u!4 &1198696754
 Transform:
   m_ObjectHideFlags: 0
